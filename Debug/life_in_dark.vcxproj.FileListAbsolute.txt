@@ -1,0 +1,2 @@
+D:\Programs\life_in_dark\Debug\life_in_dark.exe
+D:\Programs\life_in_dark\Debug\life_in_dark.pdb

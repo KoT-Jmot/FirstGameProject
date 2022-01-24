@@ -1,0 +1,7 @@
+﻿  life_in_dark.cpp
+D:\Programs\life_in_dark\life_in_dark.cpp(64,4): warning C4552: "-": результат выражения не используется
+D:\Programs\life_in_dark\life_in_dark.cpp(573,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programs\life_in_dark\life_in_dark.cpp(595,12): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+D:\Programs\life_in_dark\life_in_dark.cpp(595,48): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+D:\Programs\life_in_dark\life_in_dark.cpp(629,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  life_in_dark.vcxproj -> D:\Programs\life_in_dark\Debug\life_in_dark.exe
